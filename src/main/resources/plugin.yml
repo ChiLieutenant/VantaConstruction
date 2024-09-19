@@ -1,0 +1,15 @@
+name: VantaConstruction
+version: '${project.version}'
+main: com.chilieutenant.construction.Main
+api-version: '1.20'
+commands:
+  selectschematic:
+  savebuild:
+  previewbuild:
+  placebuild:
+  schemtest:
+  pretest:
+  rotatebuild:
+  addrequirements:
+  buildrequirements:
+  construction:
